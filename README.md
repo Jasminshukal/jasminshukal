@@ -19,9 +19,8 @@ Team worker and passionate about what I do. I have experience with different wor
 ---
 
 🏠  [website][website] **|**
-🎥  [youtube][youtube] **|**
-🐦  [twitter][twitter] **|**
+🎥  [instaram][insta] **|**
 
 [website]: http://mrjess.in/
-[youtube]: https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA
-[twitter]: https://www.tw
+[insta]: https://www.instagram.com/jess_bhudev
+
