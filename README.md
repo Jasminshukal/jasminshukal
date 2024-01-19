@@ -1,26 +1,27 @@
-### Hi, I'm Jasmin Shukal 👋
+## Hi, I'm Jasmin Shukal 👋
 
 
-### I'm a Laravel Developer !
+## I'm a Sr Laravel Developer!
 
-Team worker and passionate about what I do. I have experience with different work environment, Multinational companies, Startup and digital agencies.
+Team worker and passionate about what I do. I have experience with different work environments, Multinational companies, startups, and digital agencies.
 
 ---
 
-- 🔭 I’m currently working on CRM, ERP and Dynamic Website
-- 🌱 I’m currently learning Next.Js and Node.Js
-- 👯 I’m looking to collaborate on content creation 
+- 🔭 I’m currently working on Web API, CRM, ERP, and Dynamic Website
+- 🌱 I’m currently learning React and Next.Js
+- 👯 I’m looking to collaborate on video creation 
 - 🤔 I’m looking for projects to contribute and to help with.
-- 💬 Ask me about JavaScript, CSS,  HTML, PHP , React and Laravel
-- 📫 How to reach me: Github, Youtube and Website
+- 💬 Ask me about Laravel, CSS,  HTML, PHP and React
+- 📫 How to reach me: Website, Github, and Linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Fun loving and a friendly nature.
+- ⚡ Fun fact: Fun-loving and friendly nature.
 
 ---
 
-🏠  [website][website] **|**
-🎥  [instaram][insta] **|**
+🏠  [Website][website] 
+🎥  [Instagram][instagram] 
+✒️ [Linked In][linkedin] 
 
-[website]: http://mrjess.in/
-[insta]: https://www.instagram.com/jess_bhudev
-
+[website]: https://mr.jasminshukla.com/
+[instagram]: https://www.instagram.com/jess_bhudev
+[linkedin]: https://www.linkedin.com/in/jasmin-shukla/
