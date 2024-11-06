@@ -1,27 +1,26 @@
-## Hi, I'm Jasmin Shukal 👋
 
+## Hi, I'm Jasmin Shukla 👋
 
-## I'm a Sr Laravel Developer!
+### Senior Laravel Developer & Collaborative Problem Solver
 
-Team worker and passionate about what I do. I have experience with different work environments, Multinational companies, startups, and digital agencies.
+With a passion for building scalable web applications, I bring hands-on experience across diverse work environments, from multinational companies to agile startups and digital agencies. I specialize in Laravel but am equally comfortable across the tech stack, ensuring high-performance, user-centric solutions.
 
----
+----------
 
-- 🔭 I’m currently working on Web API, CRM, ERP, and Dynamic Website
-- 🌱 I’m currently learning React and Next.Js
-- 👯 I’m looking to collaborate on video creation 
-- 🤔 I’m looking for projects to contribute and to help with.
-- 💬 Ask me about Laravel, CSS,  HTML, PHP and React
-- 📫 How to reach me: Website, Github, and Linkedin
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Fun-loving and friendly nature.
+-   🔭 **Currently working on:** Web API, CRM, ERP, and dynamic websites
+-   🌱 **Learning:** React and Next.js for front-end excellence
+-   🎥 **Seeking collaborations in:** Video content creation to connect tech with creativity
+-   🤝 **Looking to contribute to:** Innovative projects where I can make a tangible impact
+-   💬 **Expertise:** Laravel, PHP, HTML, CSS, React
+-   📫 **Contact me via:** [Website](https://jasminshukla.com/?q=fedb414596766350e26d), [Instagram](https://www.instagram.com/mr.jasmin_shukla), [GitHub](https://github.com/Jasminshukal/), or [LinkedIn](https://www.linkedin.com/in/jasmin-shukla)
+-   😄 **Fun fact:** Known for my friendly and approachable nature!
 
 ---
 
 🏠  [Website][website] 
 🎥  [Instagram][instagram] 
-✒️ [Linked In][linkedin] 
+💼 [Linked In][linkedin] 
 
-[website]: https://mr.jasminshukla.com/
-[instagram]: https://www.instagram.com/jess_bhudev
-[linkedin]: https://www.linkedin.com/in/jasmin-shukla/
+[website]: https://jasminshukla.com/?q=fedb414596766350e26d
+[instagram]: https://www.instagram.com/mr.jasmin_shukla
+[linkedin]: https://www.linkedin.com/in/jasmin-shukla
